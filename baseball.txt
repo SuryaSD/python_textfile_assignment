@@ -1,0 +1,3 @@
+surya	muit	sea	43	33
+user1	muit	ocean	19	53
+user2	muit	blue	39	18
